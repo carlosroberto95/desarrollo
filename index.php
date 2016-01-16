@@ -45,6 +45,7 @@
 <ul>
     <li><a href="http://localhost:8080/desarrollo/matriculacion.php">Registrar Rol</a></li>
     <li><a href="http://localhost:8080/desarrollo/index.php">Inicio</a></li>
+    <li><a href="http://localhost:8080/desarrollo/index.php">nueva opcion</a></li>
 </ul>
 
 <?php
