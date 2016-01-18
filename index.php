@@ -14,7 +14,8 @@
             width: 45%;
         }
         body{
-            background-color: skyblue;
+            background-color: darkblue;
+            color: red;
         }
     </style>
 </head>
