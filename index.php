@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -35,6 +35,7 @@
         <tr>
             <td><input type="submit" value="Registrar" name="boton" /></td>
             <td>fecha de nacimiento <input type="date" class="dates" name="fechanac"/></td>
+            
         </tr>
     </table>
 
