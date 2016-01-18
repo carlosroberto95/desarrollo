@@ -13,6 +13,9 @@
             margin: 0 auto;
             width: 45%;
         }
+        body{
+            background-color: skyblue;
+        }
     </style>
 </head>
 <body>
